@@ -8,3 +8,4 @@ Connect to the game server via SSH and find the password for the next level (ban
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ls
 cat readme
+```
